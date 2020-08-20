@@ -29,6 +29,8 @@ catkin_make
 
 源码于：https://github.com/IntelRealSense/librealsense/releases下载，使用cmake编译安装。
 
+或者是需要安装这个：sudo apt-get install ros-melodic-ddynamic-reconfigure
+
 * 示例程序：
 
 roslaunch realsense2_camera demo_pointcloud.launch 
