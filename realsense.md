@@ -1,5 +1,3 @@
-## Installation Instructions
-
 ### Install the latest Intel® RealSense™ SDK 2.0
 
 * Add Intel server to the list of repositories :
