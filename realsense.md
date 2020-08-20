@@ -22,6 +22,7 @@ The above two lines will deploy librealsense2 udev rules, kernel drivers, runtim
 
 ### Install Intel® RealSense™ ROS from Sources
 git clone https://github.com/IntelRealSense/realsense-ros
+
 catkin_make
 
 如果报错基本是SDK的版本和ROS包的版本不对应，需要从源码编译安装。
