@@ -18,7 +18,7 @@ sudo apt-get install librealsense2-dkms
 
 sudo apt-get install librealsense2-utils
 
-The above two lines will deploy librealsense2 udev rules, kernel drivers, runtime library and executable demos and tools. Reconnect the Intel RealSense depth camera and run: realsense-viewer
+The above two lines will deploy librealsense2 udev rules, kernel drivers, runtime library and executable demos and tools. Reconnect the Intel RealSense depth camera and run: **realsense-viewer**
 
 ### Install Intel® RealSense™ ROS from Sources
 git clone https://github.com/IntelRealSense/realsense-ros
