@@ -25,13 +25,15 @@ git clone https://github.com/IntelRealSense/realsense-ros
 
 catkin_make
 
-如果报错基本是SDK的版本和ROS包的版本不对应，需要从源码编译安装。
+If get error is basically the SDK version does not correspond to the ROS, you need to compile and install from the source code.
 
-源码于：https://github.com/IntelRealSense/librealsense/releases下载，使用cmake编译安装。
+source code：https://github.com/IntelRealSense/librealsense/releases
 
-或者是需要安装这个：sudo apt-get install ros-melodic-ddynamic-reconfigure
+Use cmake to compile and install.
 
-* 示例程序：
+or you need to install this：sudo apt-get install ros-melodic-ddynamic-reconfigure
+
+* demo：
 
 roslaunch realsense2_camera demo_pointcloud.launch 
 
