@@ -36,3 +36,4 @@ roslaunch realsense2_camera demo_pointcloud.launch
 
 * 效果:
 
+![](./img/Screenshot-20200820184153-1837x1053.png)
