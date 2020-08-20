@@ -33,6 +33,8 @@ The above two lines will deploy librealsense2 udev rules, kernel drivers, runtim
 
 `catkin_make`
 
+### get erro
+
 If get error is basically the SDK version does not correspond to the ROS, you need to compile and install from the source code.
 
 source code：https://github.com/IntelRealSense/librealsense/releases
