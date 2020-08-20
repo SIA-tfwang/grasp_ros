@@ -28,4 +28,11 @@ catkin_make
 
 如果报错基本是SDK的版本和ROS包的版本不对应，需要从源码编译安装。
 
+源码于：https://github.com/IntelRealSense/librealsense/releases下载，使用cmake编译安装。
+
+* 示例程序：
+
 roslaunch realsense2_camera demo_pointcloud.launch 
+
+* 效果:
+
